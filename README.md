@@ -32,3 +32,7 @@ Sleep, 50 \
 SendInput, ^+{Home} \
 return \
 #IfWinActive \
+
+
+
+## u can add this file to startup or auto start else need to run everytime when u r using excel file. instead of that startup is the better option to run as default
