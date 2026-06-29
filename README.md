@@ -37,5 +37,6 @@ return \
 
 ## u can add this file to startup or auto start else need to run everytime when u r using excel file. instead of that startup is the better option to run as default
 
-reference site: https://learn.microsoft.com/en-us/answers/questions/4906111/selecting-cell-content-(ctrl-a)-doesnt-work-in-exc
+reference sites: 
+https://learn.microsoft.com/en-us/answers/questions/4906111/selecting-cell-content-(ctrl-a)-doesnt-work-in-exc
 https://www.reddit.com/r/excel/comments/67a71f/why_does_ctrla_select_all_not_work_when_editing_a/
