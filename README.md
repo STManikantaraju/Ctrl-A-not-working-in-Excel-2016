@@ -1,4 +1,4 @@
-# Ctrl-A-not-working-in-Excel-2016
+# Ctrl+A-not-working-in-Excel-2016
 
 ## Goto https://www.autohotkey.com/
 ## download this app & install
